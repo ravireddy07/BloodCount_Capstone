@@ -34,6 +34,11 @@ But if you clone the project in new location then again you need to repeat step 
 
 ```
 
+### Generic Web Stack Diagram
+![image](https://user-images.githubusercontent.com/15084301/40181948-eb29ca52-5a07-11e8-8bac-3cb0506ccfe6.png)
+<br />[Know more about web stack](https://dzone.com/articles/why-full-stack-development-is-too-good-for-you-in)
+
+
 # Contributing Guidelines
 Please refer to this [CONTRIBUTING guide](https://github.com/ravireddy07/Blood_Share/CONTRIBUTING.md) to know more about general guidelines, creatig issues, pull requests, git commits etc.
 
