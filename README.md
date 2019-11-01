@@ -46,7 +46,7 @@ Please refer to this [CONTRIBUTING guide](https://github.com/ravireddy07/Blood_S
 - [K Vinod](https://github.com/)
 
 ## Working Repo/Site
-- Repo : https://github.com/ravireddy07/Blood_Share/
+- Repo : https://github.com/ravireddy07/Share-Blood-Capstone/
 
 ## Style Guide
 We have followed Udacity style Guide, which means the style used in Udacity Projects will maintain this style. So we recommend to follow same [style guide](https://udacity.github.io/frontend-nanodegree-styleguide/) in this project.
