@@ -14,6 +14,7 @@ or go to codepen to check your changes you made in scss or html or js files. Jus
 ```
 * Step2 -- Download and install Node(latest stable version) (npm comes along with node)<br />
 [Node](https://nodejs.org/en/) -- (e.g v 8.11 )
+
 <br />[What is npm?](https://www.npmjs.com/)
 ```
 verify with below command
@@ -39,11 +40,11 @@ But if you clone the project in new location then again you need to repeat step 
 Please refer to this [CONTRIBUTING guide](https://github.com/ravireddy07/Blood_Share/CONTRIBUTING.md) to know more about general guidelines, creatig issues, pull requests, git commits etc.
 
 ## Contributors
-- [M Kristu Das](https://github.com/Kristudas)
-- [T Rajesh](https://github.com/Bintu225)
-- [G Ravikanth](https://github.com/ravireddy07)
+- [M Kristu Das](https://github.com/Kristudas/)
+- [T Rajesh](https://github.com/Bintu225/)
+- [G Ravikanth](https://github.com/ravireddy07/)
 - [MD Viqar Muhammad](https://github.com/)
-- [K Vinod](https://github.com/)
+- [K Vinod](https://github.com/vinodyadav2413/)
 
 ## Working Repo/Site
 - Repo : https://github.com/ravireddy07/Share-Blood-Capstone/
