@@ -7,7 +7,7 @@ const FILE_PATH = './data.json';
 //subtract from current date.
 //moment() will hold current date
 //const DATE = moment().subtract(1, 'd').format();
-const DATE = moment().subtract(177, 'd').format();
+const DATE = moment().subtract(2, 'd').format();
 
 const data = {
     date: DATE

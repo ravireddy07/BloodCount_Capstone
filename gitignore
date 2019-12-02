@@ -1,1 +1,6 @@
 node_modules
+data.json
+index.js
+.dist
+package-lock.json
+package.json
