@@ -1,2 +1,11 @@
 new.text
 Presentation.pptx
+package.json
+package-lock.json
+index.js
+data.json
+BloodCountCapstoneUser.rar
+BloodCountCapstoneAdmin.rar
+BloodCountCapstoneFinalReport.pdf
+node_modules/*
+.dist/*
