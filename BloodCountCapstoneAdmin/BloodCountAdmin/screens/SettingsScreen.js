@@ -36,27 +36,13 @@ export default class SettingsScreen extends React.Component {
    //this.fetcdata('','');
 
 }
- logout = async()=>
-{
-  await AsyncStorage.removeItem('userid');
- 
-  this.props.navigation.navigate('Home', {
-    itemId: '' ,
-    otherParam: 'anything you want here',
-  });
-}
+
   render() {
      
     return (
       <ScrollView style={styles.container}>
        <View style={{flex: 1, flexDirection:'column'}}>
-       <TouchableOpacity
-               style = {styles.submitButton}
-               onPress = {
-                  () => this.logout()
-               }>
-               <Text style = {styles.submitButtonText}> Logout</Text>
-            </TouchableOpacity>
+  
   
   <WebView 
         source={{ uri: 'http://blookbank.flashcontacts.org/Home/Createcertificate' }} 

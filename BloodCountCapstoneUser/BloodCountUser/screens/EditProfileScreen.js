@@ -123,6 +123,15 @@ handleBloodGroup = (text) => {
     });
 
  }
+ logout = async()=>
+{
+  await AsyncStorage.removeItem('userid');
+ 
+  this.props.navigation.navigate('Home', {
+    itemId: '' ,
+    otherParam: 'anything you want here',
+  });
+}
  render() {
   return (
     <View style={styles.container}>
@@ -190,6 +199,14 @@ handleBloodGroup = (text) => {
                   () => this.back()
                }>
                <Text style = {styles.submitButtonText}> Back To Login </Text>
+            </TouchableOpacity>
+
+            <TouchableOpacity
+               style = {styles.submitButton}
+               onPress = {
+                  () => this.logout()
+               }>
+               <Text style = {styles.submitButtonText}> Logout</Text>
             </TouchableOpacity>
 
         </View>

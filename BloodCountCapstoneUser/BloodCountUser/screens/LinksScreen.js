@@ -111,7 +111,7 @@ console.log(result);
 
       <TextInput style = {styles.input}
                underlineColorAndroid = "transparent"
-               placeholder = {this.state.userid}
+               placeholder = "City"
                placeholderTextColor = "#9a73ef"
                autoCapitalize = "none"
                onChangeText = {this.handleCity}/>

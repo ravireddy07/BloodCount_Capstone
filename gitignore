@@ -1,6 +1,10 @@
-node_modules
+node_modules/
 data.json
-index.js
-.dist
+index
+.dist/
 package-lock.json
 package.json
+BloodCountCapstoneUser.rar
+BloodCountCapstoneAdmin.rar
+BloodCountCapstoneFinalReport.pdf
+Presentation.pptx
