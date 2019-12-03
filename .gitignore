@@ -1,6 +1,6 @@
 node_modules/
 data.json
-index
+index.js
 .dist/
 package-lock.json
 package.json
