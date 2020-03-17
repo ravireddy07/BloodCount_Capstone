@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,10 +16,14 @@
   "bugs": {
     "url": "https://github.com/ravireddy07/BloodCount_Capstone/issues"
   },
-  "homepage": "https://github.com/ravireddy07/BloodCount_Capstone#readme",
+  "homepage": "https://ravireddy07.github.io/BloodCount_Capstone",
   "dependencies": {
     "jsonfile": "^5.0.0",
     "moment": "^2.24.0",
     "simple-git": "^1.126.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0",
+    "react-scripts": "^1.0.13"
   }
 }
