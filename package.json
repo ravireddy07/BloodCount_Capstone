@@ -20,7 +20,7 @@
   "dependencies": {
     "jsonfile": "^5.0.0",
     "moment": "^2.24.0",
-    "simple-git": "^1.126.0"
+    "simple-git": "^3.3.0"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0",
